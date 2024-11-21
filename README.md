@@ -14,6 +14,11 @@ or if using a Venv:
 ```bash
 pip --require-virtualenv install PyQt5 requests
 ```
+or using the requirements.txt:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
