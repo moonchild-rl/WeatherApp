@@ -1,6 +1,6 @@
 # WeatherApp
 
-WeatherApp is a simple GUI for checking meteorological data at a location using GPS.
+WeatherApp is a simple GUI for checking meteorological data at a location.
 
 ## Installation
 
@@ -22,8 +22,13 @@ pip install -r requirements.txt
 
 ## Usage
 
+1. Create an [OpenWeather](https://openweathermap.org/) (it's free and easy).
+2. Under your profile's [API Keys](https://home.openweathermap.org/api_keys) you should now find your personal key (might take a couple of minutes to be active).
+3. Copy and paste your key into the file called **API_Key_File.txt**
+4. Run the python program main.py.
+   
 ```python
-# TBD
+python3 main.py
 ```
 
 ## Contributing
@@ -33,4 +38,4 @@ to discuss what you would like to change.
 
 ## License
 
-TBD
+Shoutout to Bro Code on yt for the idea
