@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Create an [OpenWeather](https://openweathermap.org/) (it's free and easy).
+1. Create an [OpenWeather](https://openweathermap.org/) account (it's free and easy).
 2. Under your profile's [API Keys](https://home.openweathermap.org/api_keys) you should now find your personal key (might take a couple of minutes to be active).
 3. Copy and paste your key into the file called **API_Key_File.txt**
 4. Run the python program main.py.
